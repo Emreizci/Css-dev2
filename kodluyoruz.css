@@ -1,0 +1,63 @@
+
+.logo {
+    text-align: center;
+}
+
+.search-bar {
+    text-align: center;
+    background-color: grey;
+
+}
+
+
+.link1-box {
+    background-color:#7EE5DA;
+    width:37%;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 1px;
+    float: left;
+    height: 90px;
+    padding-top:10px;
+    
+    
+    
+    
+}
+
+.link2-box {
+    background-color:#70CCC2 ;
+    text-align: center;
+    width:17%;
+    float: left;
+    font-size: small;
+    margin: 1px;
+    height: 100px;
+    
+    
+    
+    
+}
+
+.link3-box {
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 1px;
+    float:left;
+    width: 36%;
+    font-size:small;
+    height: 100px;
+    display: table;
+    
+    
+}
+
+li {
+    list-style-type:none;
+}
+
+footer {
+    text-align: center;
+    clear: left;
+    font-size:small;
+}
